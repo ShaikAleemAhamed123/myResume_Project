@@ -31,12 +31,12 @@
             top: 0px;
             left: 0px;
             right: 0px;
-            height: 77%;
+            height: 85.5%;
             width: 100%;
             z-index: -1;
-            background-image: url("https://th.bing.com/th/id/R.33ef5878f585fcdf85a9990d4e4e8685?rik=4K4fDhfOxU5OWA&riu=http%3a%2f%2fwww.webtechelp.net%2fwp-content%2fuploads%2f2014%2f05%2fbusiness-cards-psd.jpg&ehk=XxeBDUTUs6oZcIE5rV8lwJtq1ebcB15dV%2bdElvIyZRE%3d&risl=&pid=ImgRaw&r=0");
+            background-image: url("https://www.youngisthan.in/wp-content/uploads/2015/10/online-business.jpg");
             background-repeat: no-repeat;
-            opacity: 0.8;
+            opacity: 0.9;
         }
 
         .logo img {
@@ -126,6 +126,7 @@
             font-size: 70px;
             margin-top: 84px;
             color: #000000;
+            
 
         }
 
